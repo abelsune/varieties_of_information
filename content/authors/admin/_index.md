@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Paco Merla
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,16 +10,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universitat de Barcelona
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
+- Philosophy
 - Computational Linguistics
-- Information Retrieval
+- Information Theory
 
 education:
   courses:
