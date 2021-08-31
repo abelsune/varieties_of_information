@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universitat de barcelona
+- name: Universitat de Barcelona
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
