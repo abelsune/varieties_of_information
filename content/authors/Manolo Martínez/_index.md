@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor 
+role: Assistant Professor and Ramón y Cajal Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Most of what I do is related in some way to the question of what makes certain entities be about, mean, or represent others.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Philosophy of Cognitive Science
+- Philosophy of Mind
+- Philosophy of Biology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Philosophy
+    institution: Universitat de Barcelona
+    year: 2010
+  - course: MA in Philosophy
+    institution: Universitat de Barcelona
+    year: 2006
+  - course: BSc in Chemical Engineering
+    institution: Institut Químic de Sarrià
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8k2ZCqkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/manolomartinez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,6 @@ user_groups:
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor and Ramón y Cajal fellow at the philosophy department of the Universitat de Barcelona. Before that, I was a member of Bence Nanay’s research group at UAntwerpen, and even before that I did research at the Universitat Autònoma de Barcelona and The Graduate Center, CUNY.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Most of what I do is related in some way to the question of what makes certain entities be about, mean, or represent others.
