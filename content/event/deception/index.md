@@ -2,7 +2,7 @@
 title: Deception: a Varieties of Information online workshop
 
 event: Varieties of information workshop
-event_url: http://manolomartinez.net/talk/deception-a-varieties-of-information-workshop/poster.pdf
+event_url: www.manolomartinez.net/talk/deception-a-varieties-of-information-workshop/poster.pdf
 
 location: online
 address:
@@ -12,7 +12,7 @@ address:
   postcode:  
   country: 
 
-summary: A workshop on deception in communication systems.
+summary: Online workshop on deception in communication systems.
 abstract: ""
 
 # Talk start and end times.
@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "http://www.ub.edu/grc_logos/files/user343/1543840656-Poster%20Real%20Patterns.pdf"
+url_pdf: "www.ub.edu/grc_logos/files/user343/1543840656-Poster%20Real%20Patterns.pdf"
 url_slides: ""
 url_video: ""
 
