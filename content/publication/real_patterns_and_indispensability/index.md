@@ -22,10 +22,10 @@ publication_types: ["2"]
 publication: "*Synthese*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: While scientific inquiry crucially relies on the extraction of patterns from data, we still have a far from perfect understanding of the metaphysics of patterns—and, in particular, of what makes a pattern real. In this paper we derive a criterion of real-patternhood from the notion of conditional Kolmogorov complexity. The resulting account belongs to the philosophical tradition, initiated by Dennett (J Philos 88(1):27–51, 1991), that links real-patternhood to data compressibility, but is simpler and formally more perspicuous than other proposals previously defended in the literature. It also successfully enforces a non-redundancy principle, suggested by Ladyman and Ross (Every thing must go: metaphysics naturalized, Oxford University Press, Oxford, 2007), that aims to exclude from real-patternhood those patterns that can be ignored without loss of information about the target dataset, and which their own account fails to enforce
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
 - Source Themes
