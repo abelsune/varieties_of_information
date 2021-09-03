@@ -1,5 +1,5 @@
 ---
-title: "Neural oscillations as representations"
+title: "Informational Theories of Content and Mental Representation"
 authors:
 - Marc Artiga
 - Miguel Ángel Sebastián
@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Review of Philosophy and Psychology, 11* (3):613-627."
-publication_short: "BJPS"
+publication_short: ""
 
 abstract: 
 
