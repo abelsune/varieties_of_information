@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url: "https://www.catedra.com/libro/teorema-serie-mayor/sobre-las-emociones-david-pineda-oliva-9788437639246/"  
+url: "www.catedra.com/libro/teorema-serie-mayor/sobre-las-emociones-david-pineda-oliva-9788437639246/"  
 url_code: ''
 url_dataset: ''
 url_poster: ''
