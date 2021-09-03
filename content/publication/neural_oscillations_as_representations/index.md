@@ -25,9 +25,9 @@ publication_short: ""
 
 
 
-abstract: We explore the contribution made by oscillatory, synchronous neural activity to representation in the brain. We closely examine six prominent examples of brain function in which neural oscillations play a central role, and identify two levels of involvement that these oscillations take in the emergence of representations: enabling (when oscillations help to establish a communication channel between sender and receiver, or are causally involved in triggering a representation) and properly representational (when oscillations are a constitutive part of the representation).
+abstract: We explore the contribution made by oscillatory, synchronous neural activity to representation in the brain. We closely examine six prominent examples of brain function in which neural oscillations play a central role, and identify two levels of involvement that these oscillations take in the emergence of representations\: enabling \(when oscillations help to establish a communication channel between sender and receiver, or are causally involved in triggering a representation) and properly representational \(when oscillations are a constitutive part of the representation\).
 
-We show that even an idealized informational sender-receiver account of representation makes the representational status of oscillations a non-trivial matter, which depends on rather minute empirical details.
+We show that even an idealized informational sender\-receiver account of representation makes the representational status of oscillations a non\-trivial matter, which depends on rather minute empirical details.
 
 # Summary. An optional shortened abstract.
 summary:  
