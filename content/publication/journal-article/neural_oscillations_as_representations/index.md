@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Neural oscillations as representations"
 authors:
-- admin
-- Robert Ford
+- Marc Artiga
+- Manolo Martínez
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*The British Journal for the Philosophy of Science*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We explore the contribution made by oscillatory, synchronous neural activity to representation in the brain. We closely examine six prominent examples of brain function in which neural oscillations play a central role, and identify two levels of involvement that these oscillations take in the emergence of  representations: enabling (when oscillations help to establish a communication channel between sender and receiver, or are causally involved in triggering a representation) and properly representational (when oscillations are a constitutive part of the representation). We show that even an idealized informational sender-receiver account of representation makes the representational status of oscillations a non-trivial matter, which depends on rather minute empirical details.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://philpapers.org/archive/MARNOA-7.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
