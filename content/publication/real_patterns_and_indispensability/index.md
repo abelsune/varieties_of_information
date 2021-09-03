@@ -3,10 +3,11 @@ title: "Real patterns and indispensability"
 authors:
 - admin
 - Manolo Martínez
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: ""
+date: "forthcoming"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
