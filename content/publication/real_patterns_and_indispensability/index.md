@@ -2,7 +2,7 @@
 title: "Real patterns and indispensability"
 authors:
 - admin
-- Robert Ford
+- Manolo Martínez
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -10,7 +10,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "forthcoming"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:  
+url_pdf:  "https://philpapers.org/archive/SURPA-4.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
