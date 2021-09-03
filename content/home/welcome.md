@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Varieties of Information research project** aims at investigating the notion of representation in cognitive science. The initial hypothesis of the project is that a suffiently expressive model of the relation between mind(s) and world, so that representation can be explored therein, needs to augment game-theoretic sender-receiver models by embedding them in a formal model of the world as a probabilistic landscape. This will open the possibility of devising formal content-determining algorithms for the model.
