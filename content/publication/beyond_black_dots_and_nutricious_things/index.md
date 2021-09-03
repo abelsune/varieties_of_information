@@ -1,11 +1,9 @@
 ---
-title: "Beyond Black Dots and Nutritious Things: A Solution to the Indeterminacy Problem"
+title: "Beyond Black Dots and Nutritious Things\: A Solution to the Indeterminacy Problem"
 authors:
 - Marc Artiga
 
-
 author_notes:
-
 
 date: "2021-09-01T00:00:00Z"
 doi: ""
@@ -21,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Mind and Language,* 36(3):  471-490"
-publication_short: "BJPS"
+publication_short: ""
 
 abstract: 
 
