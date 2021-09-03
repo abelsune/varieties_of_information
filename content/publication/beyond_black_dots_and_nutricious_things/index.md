@@ -1,5 +1,5 @@
 ---
-title: "Beyond Black Dots and Nutritious Things\: A Solution to the Indeterminacy Problem"
+title: "Beyond Black Dots and Nutritious Things: A Solution to the Indeterminacy Problem"
 authors:
 - Marc Artiga
 
