@@ -1,5 +1,5 @@
 ---
-title: Deception: a Varieties of Information online workshop
+title: Deception 
 
 event: Varieties of information workshop
 event_url: www.manolomartinez.net/talk/deception-a-varieties-of-information-workshop/poster.pdf
