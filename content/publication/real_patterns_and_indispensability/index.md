@@ -11,7 +11,7 @@ date: "forthcoming"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "forthcoming"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ abstract:
 summary:
 
 tags:
-- Source Themes
+-  Mapping the foundations
 featured: false
 
 # links:
