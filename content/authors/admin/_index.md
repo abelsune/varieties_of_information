@@ -1,33 +1,29 @@
 ---
 # Display name
-title: Abel Suñé
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate Stuent
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Universitat de Barcelona
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Philosophy of Mind
-- Metaphysics of science
-- Information Theory
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD in  
+  - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -44,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'abelsune@gmail.com'
+  link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
-  link:  
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,8 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
-
+- Researchers
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
