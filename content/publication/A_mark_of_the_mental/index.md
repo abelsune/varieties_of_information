@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 
 authors:
-- Manolo Martinez
+- Manolo Martínez
 
 
 tags: []
